@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Bicep
+- 🌱 I’m currently learning IaC - Bicep and familiarizing myself with DevOps.
 
 <!--
 **KjellBulcke/KjellBulcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
