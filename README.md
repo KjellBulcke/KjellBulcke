@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning IaC - Bicep and familiarizing myself with DevOps.
+🌱 I’m currently delving deeper into the following subjects:
+- Azure IaC (Bicep)
+- DevOps
+- SQL
+- .NET
+- Azure Infrastructure
 
 <!--
 **KjellBulcke/KjellBulcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
